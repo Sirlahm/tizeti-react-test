@@ -16,6 +16,7 @@
   "scripts": {
     "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
+  "build": "react-scripts build",
     "prestart": "npm install",
     "pretest": "npm install",
     "start": "cross-env HOST=0.0.0.0 PORT=8000 ./node_modules/.bin/react-scripts start",
