@@ -1,6 +1,7 @@
 {
   "name": "hacker-dormitory",
   "version": "0.1.0",
+  "homepage": "https://Sirlahm.github.io/tizeti-react-test",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.10.1",
